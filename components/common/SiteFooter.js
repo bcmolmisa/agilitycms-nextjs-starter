@@ -58,7 +58,7 @@ const SiteFooter = () => {
         </div>
         <div className="flex-grow mb-4 md:mb-0">
           <p className="text-center md:text-left text-gray-600 text-xs md:ml-8 md:max-w-3xl">
-            Powered by Agility CMS. This website and materials found on it are
+            Powered by Agility CMS and Bern. This website and materials found on it are
             for demo purposes. You can use this to preview the content you
             created on your Agility CMS account.{"\u00A0"}
             <a
